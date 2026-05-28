@@ -4,6 +4,19 @@ Project akhir Mata Kuliah Algoritma dan Struktur Data dengan studi kasus Sistem 
 
 Sistem Pemesanan Tiket Bioskop berbasis Java Console.
 
+---
+
+## Anggota Kelompok 4
+
+1. [Belva Dhia Haqqina 2510631250029](https://github.com/Belvadh-bit)
+
+2. [Muhammad Al-Fatih 2510631250038](https://github.com/NirCulus)
+
+3. [Muhammad Fatih Labib 2510631250071](https://github.com/@fatihlabib64-gif)
+
+
+---
+
 ## Deskripsi
 
 Project ini merupakan aplikasi pemesanan tiket bioskop berbasis Java yang berjalan melalui terminal/console. Sistem digunakan dari sudut pandang admin atau kasir untuk mengelola film, jadwal tayang, kursi, transaksi, dan riwayat pembelian tiket.
@@ -33,16 +46,6 @@ Keterangan:
 
 ---
 
-## Persyaratan
-
-Pastikan perangkat sudah terpasang:
-
-- Java JDK 8 atau lebih baru
-- Terminal / Command Prompt
-- Git (opsional)
-
----
-
 ## Cara Menjalankan Program
 
 ### 1. Jalankan Program
@@ -58,13 +61,40 @@ Masukkan password sesuai hak akses yang ingin digunakan.
 
 ### 3. Gunakan Fitur Program
 
-Setelah berhasil login, pengguna dapat mengakses berbagai fitur yang tersedia, seperti:
+Setelah berhasil login, pengguna akan diarahkan ke menu utama sesuai hak akses masing-masing. Menu akan ditampilkan seperti berikut:
 
-Mengelola data film
-Mengatur jadwal tayang
-Melakukan transaksi tiket
-Memilih kursi bioskop
-Melihat riwayat transaksi
+- Kasir
+```text
+  1. Lihat Daftar Film
+  2. Transaksi Tiket Baru
+  3. Riwayat Transaksi
+  4. Laporan Transaksi
+  5. Cari / Urut Film
+  0. Kembali ke Menu Login
+```
+
+- Admin
+```text
+  1. Kelola Film
+  2. Transaksi Tiket Baru
+  3. Riwayat Transaksi
+  4. Laporan Transaksi
+  5. Cari / Urut Film
+  0. Kembali ke Menu Login
+```
+
+##### Kelola Film (Menu Khusus Admin):
+
+```text
+  1. Lihat Daftar Film
+  2. Tambah Film
+  3. Edit Film
+  4. Hapus Film (Soft Delete)
+  5. Kelola Jadwal Tayang
+  6. Lihat Semua Film Termasuk Nonaktif
+  0. Kembali
+```
+
 ### 4. Keluar Program dengan Benar
 
 Untuk memastikan seluruh data tersimpan dengan aman, keluar program secara bertahap melalui menu Kembali hingga kembali ke halaman login utama, kemudian pilih opsi Keluar.
