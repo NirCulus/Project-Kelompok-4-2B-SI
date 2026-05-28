@@ -25,9 +25,9 @@ Project-Kelompok-4-2B-SI/
 
 Pastikan perangkat sudah terpasang:
 
-* Java JDK 8 atau lebih baru
-* Terminal / Command Prompt
-* Git (opsional)
+- Java JDK 8 atau lebih baru
+- Terminal / Command Prompt
+- Git (opsional)
 
 ---
 
@@ -40,8 +40,10 @@ Program dapat dijalankan secara lokal menggunakan IDE Java atau melalui terminal
 
 Masukkan password sesuai hak akses yang ingin digunakan.
 
-Password Kasir : 123456
-Password Admin : 654321
+- Password Kasir : 123456
+
+- Password Admin : 654321
+
 ### 3. Gunakan Fitur Program
 
 Setelah berhasil login, pengguna dapat mengakses berbagai fitur yang tersedia, seperti:
