@@ -8,11 +8,11 @@ Sistem Pemesanan Tiket Bioskop berbasis Java Console.
 
 ## Anggota Kelompok 4
 
-1. [Belva Dhia Haqqina 2510631250029](https://github.com/Belvadh-bit)
+1. [Belva Dhia Haqqina](https://github.com/Belvadh-bit)
 
-2. [Muhammad Al-Fatih 2510631250038](https://github.com/NirCulus)
+2. [Muhammad Al-Fatih](https://github.com/NirCulus)
 
-3. [Muhammad Fatih Labib 2510631250071](https://github.com/@fatihlabib64-gif)
+3. [Muhammad Fatih Labib](https://github.com/@fatihlabib64-gif)
 
 
 ---
