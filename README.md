@@ -13,11 +13,23 @@ Project ini merupakan aplikasi pemesanan tiket bioskop berbasis Java yang berjal
 ```text
 Project-Kelompok-4-2B-SI/
 │
+├── Laporan Kelompok 4_2B_Sistem Informasi.pdf
 ├── SistemBioskop.java
 ├── films.csv
 ├── transactions.csv
 └── README.md
 ```
+Keterangan:
+
+`Laporan Kelompok 4_2B_Sistem Informasi.pdf` → laporan project
+
+`SistemBioskop.java` → file utama program
+
+`films.csv` → penyimpanan data film
+
+`transactions.csv` → penyimpanan riwayat transaksi
+
+`README.md` → dokumentasi singkat project
 
 ---
 
