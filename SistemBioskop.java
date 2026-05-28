@@ -182,7 +182,7 @@ public class SistemBioskop {
             printMenuOption("1", "Lihat Daftar Film");
             printMenuOption("2", "Tambah Film");
             printMenuOption("3", "Edit Film");
-            printMenuOption("4", "Hapus Film (Soft Delete)");
+            printMenuOption("4", "Hapus Film");
             printMenuOption("5", "Kelola Jadwal Tayang");
             printMenuOption("6", "Lihat Semua Film Termasuk Nonaktif");
             printMenuOption("0", "Kembali");
@@ -953,7 +953,7 @@ public class SistemBioskop {
         }
         film.aktif = false;
         saveData();
-        success("Film berhasil dihapus (soft delete).");
+        success("Film berhasil dihapus.");
     }
 
     // Membuka pengelolaan jadwal tayang untuk film aktif yang dipilih admin.
