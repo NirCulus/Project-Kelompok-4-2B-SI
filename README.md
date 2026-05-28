@@ -12,7 +12,7 @@ Sistem Pemesanan Tiket Bioskop berbasis Java Console.
 
 2. [Muhammad Al-Fatih](https://github.com/NirCulus)
 
-3. [Muhammad Fatih Labib](https://github.com/@fatihlabib64-gif)
+3. [Muhammad Fatih Labib](https://github.com/fatihlabib64-gif)
 
 
 ---
